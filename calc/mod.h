@@ -1,6 +1,3 @@
 #pragma once
-
-<<<<<<< HEAD
-/// dev/a 에서 수정 중
-
+// Update a
 int mod(int, int);
